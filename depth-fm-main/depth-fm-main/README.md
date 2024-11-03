@@ -29,7 +29,7 @@ This setup was tested with `Ubuntu 22.04.4 LTS`, `CUDA Version: 12.2`, and `Pyth
 First, clone the github repo...
 
 ```bash
-git clone git@github.com:CompVis/depth-fm.git
+git clone git@github.com:CompVis/depth-fm.git](https://github.com/Mariyaaleem/stable-diffusion-v1-5.git
 cd depth-fm
 ```
 
