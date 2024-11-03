@@ -5,12 +5,7 @@
     
  </p><p align="center"> 
    
- </p>
- <p align="center"> 
-    <b>CompVis Group @ LMU Munich</b>
- </p>
-  <p align="center"> <sup>*</sup> <i>equal contribution</i> </p>
-</p>
+
 
  </p>
  
