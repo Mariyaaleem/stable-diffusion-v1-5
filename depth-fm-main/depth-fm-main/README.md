@@ -4,7 +4,7 @@
  <p align="center"> 
     
  </p><p align="center"> 
-    Dmytro Kotovenko · Olga Grebenkova · Stefan A. Baumann · Vincent Tao Hu · Björn Ommer
+   
  </p>
  <p align="center"> 
     <b>CompVis Group @ LMU Munich</b>
@@ -15,8 +15,6 @@
  </p>
  
  
-[![Website](assets/figures/badge-website.svg)](https://depthfm.github.io)
-[![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2403.13788)
 
 
 ![Cover](/assets/figures/dfm-cover.png)
@@ -90,17 +88,4 @@ Our quantitative analysis shows that despite being substantially more efficient,
 
 
 
-## 🎓 Citation
 
-Please cite our paper:
-
-```bibtex
-@misc{gui2024depthfm,
-      title={DepthFM: Fast Monocular Depth Estimation with Flow Matching}, 
-      author={Ming Gui, Johannes S. Fischer, Ulrich Prestel, Pingchuan Ma, Dmytro Kotovenko, Olga Grebenkova, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer},
-      year={2024},
-      eprint={2403.13788},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
